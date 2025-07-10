@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{a837e2aa-16c8-4287-98fa-39a35a8daa16}">
+		<property name="assetPath">
+			<value>SFX/ENVIRO/sfx_vehicle_collectible_get_2.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>1</value>
+		</property>
+		<property name="length">
+			<value>1.6956458333333333</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{139ecff4-c2b9-4cca-b847-163d826393ec}</destination>
+		</relationship>
+	</object>
+</objects>

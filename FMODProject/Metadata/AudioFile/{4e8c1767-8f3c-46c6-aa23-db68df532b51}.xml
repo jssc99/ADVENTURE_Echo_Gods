@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{4e8c1767-8f3c-46c6-aa23-db68df532b51}">
+		<property name="assetPath">
+			<value>MUS/LV3/Bouzouki.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>96</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{139ecff4-c2b9-4cca-b847-163d826393ec}</destination>
+		</relationship>
+	</object>
+</objects>

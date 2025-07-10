@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{016dfbf6-52c0-4510-875b-47faac065e8b}">
+		<property name="name">
+			<value>Jingle</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bc3f9626-eebb-4149-b549-a5dcb3b0235f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a4051d9f-b759-41a6-bcab-2577817a8ad2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a4051d9f-b759-41a6-bcab-2577817a8ad2}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{0dbefbd8-c238-4b3b-b400-d019f16fd407}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{0dbefbd8-c238-4b3b-b400-d019f16fd407}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>0.39999997615814209</value>
+		</property>
+	</object>
+</objects>

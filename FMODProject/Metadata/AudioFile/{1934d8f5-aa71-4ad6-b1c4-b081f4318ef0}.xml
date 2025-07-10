@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{1934d8f5-aa71-4ad6-b1c4-b081f4318ef0}">
+		<property name="assetPath">
+			<value>SFX/LYRE/SFX_Player_Lyre_C-001.wav</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>5.5813958333333336</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{139ecff4-c2b9-4cca-b847-163d826393ec}</destination>
+		</relationship>
+	</object>
+</objects>

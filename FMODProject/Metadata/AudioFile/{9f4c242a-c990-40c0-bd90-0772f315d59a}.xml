@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="AudioFile" id="{9f4c242a-c990-40c0-bd90-0772f315d59a}">
+		<property name="assetPath">
+			<value>AMB/amb_island3_forest.wav</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>79.361145833333339</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{139ecff4-c2b9-4cca-b847-163d826393ec}</destination>
+		</relationship>
+	</object>
+</objects>

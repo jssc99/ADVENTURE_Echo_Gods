@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{c6c51c4b-214d-408d-b4e6-1d3080c8dc0a}">
+		<property name="name">
+			<value>Puzzle_Zone</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bc3f9626-eebb-4149-b549-a5dcb3b0235f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{3aa66412-9e36-4477-8647-03c2bc8caa68}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{3aa66412-9e36-4477-8647-03c2bc8caa68}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>2</value>
+		</property>
+		<property name="isGlobal">
+			<value>true</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<property name="isExposedRecursively">
+			<value>false</value>
+		</property>
+	</object>
+</objects>

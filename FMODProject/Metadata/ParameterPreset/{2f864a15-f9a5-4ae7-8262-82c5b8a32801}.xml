@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="ParameterPreset" id="{2f864a15-f9a5-4ae7-8262-82c5b8a32801}">
+		<property name="name">
+			<value>amb_vehicle_sea</value>
+		</property>
+		<relationship name="folder">
+			<destination>{bc3f9626-eebb-4149-b549-a5dcb3b0235f}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{a1f7a374-d998-4829-a6c1-3f61844d65c1}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{a1f7a374-d998-4829-a6c1-3f61844d65c1}">
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+		<relationship name="modulators">
+			<destination>{304386d1-ef27-4775-bbcc-5ced54864275}</destination>
+		</relationship>
+	</object>
+	<object class="SeekModulator" id="{304386d1-ef27-4775-bbcc-5ced54864275}">
+		<property name="nameOfPropertyBeingModulated">
+			<value>cursorPosition</value>
+		</property>
+		<property name="speedAscending">
+			<value>1.5</value>
+		</property>
+	</object>
+</objects>

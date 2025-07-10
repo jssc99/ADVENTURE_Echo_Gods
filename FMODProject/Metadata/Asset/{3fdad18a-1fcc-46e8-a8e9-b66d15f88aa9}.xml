@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.03.00">
+	<object class="EncodableAsset" id="{3fdad18a-1fcc-46e8-a8e9-b66d15f88aa9}">
+		<property name="assetPath">
+			<value>SFX/PLACEHOLDER/Voice_SFX_GP/</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{139ecff4-c2b9-4cca-b847-163d826393ec}</destination>
+		</relationship>
+	</object>
+</objects>
